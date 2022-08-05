@@ -10,13 +10,19 @@
       "id": 2,
       "text": "Study",
       "day": "Today at 12:30pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 3,
       "text": "Food Shopping",
       "day": "May 8th at 12:30pm",
-      "reminder": false
+      "reminder": true
+    },
+    {
+      "text": "Test Task",
+      "day": "28.02.2022",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
